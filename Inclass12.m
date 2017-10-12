@@ -11,7 +11,7 @@ reader = bfGetReader(fileID);
 reader.getSizeC;
 reader.getSizeZ;
 reader.getSizeT;
-
+ 
 chan = 1;
 time = 30; 
 zplane = 1;
